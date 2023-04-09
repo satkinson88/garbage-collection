@@ -1,6 +1,3 @@
-### **Stack & Heap Diagram**
-![Image description](/Users/atkins95/workspace/garbage-collection/stack&heap.png)
-
 ### **Concepts behind stack memory**
 The stack memory is functions as a last in first out order, hence the name stack, and it contains primitive values (int, double, boolean etc) and references to objects in the heap.
 This last in first out function makes the stack memory much quicker to access. Variables inside stack exist only as long as the method that created them is running.
